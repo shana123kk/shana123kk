@@ -96,7 +96,7 @@ Docker • Git • Linux • Jupyter
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shana123kk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shana-kk-055662251/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/shana123kk)
 [![Portfolio](https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=github)](https://github.com/shana123kk)
 
